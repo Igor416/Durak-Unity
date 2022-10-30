@@ -1,0 +1,15 @@
+{
+  "langs": ["en", "ru"],
+  "labels": [
+    {
+      "resign": "Quit",
+      "start": ["Start", "Accept"],
+      "action": ["", "Draw", "Pick Up", "Pass"]
+    },
+    {
+      "resign": "Выйти",
+      "start": ["Старт", "Принять"],
+      "action": ["", "Бито", "Беру", "Пас"]
+    }
+  ]
+}

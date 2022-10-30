@@ -1,0 +1,10 @@
+{
+  "name": "user",
+  "photo": "",
+  "lang": "ru",
+  "gameSettings":
+  {
+    "cards": 36,
+    "ThrowIn": "none"
+  }
+}
